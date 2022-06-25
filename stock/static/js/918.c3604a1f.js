@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunktemplate"]=self["webpackChunktemplate"]||[]).push([[918],{7918:function(n,e,t){t.r(e),t.d(e,{default:function(){return i}});var u=t(3396);const r=(0,u._)("h1",null,"歡迎登入!!",-1),l=[r];function a(n,e,t,r,a,c){return(0,u.wg)(),(0,u.iD)("div",null,l)}var c={},s=t(89);const f=(0,s.Z)(c,[["render",a]]);var i=f}}]);
